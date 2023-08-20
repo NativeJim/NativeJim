@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Jereme Sorteberg</h1>
-<h3 align="center">I'm interested in learning more about IT and how I can use it to help other people.</h3>
+# 💫 About Me:
+<br>    🌱 I’m currently learning Python<br><br>    🤝 I’m looking for help with in learning the basics of Python<br><br>    📫 How to reach me Jeremesorteberg059@gmail.com<br><br>    ⚡ Fun fact I can ride my pedal bike backwards<br>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nativejim&label=Profile%20views&color=0e75b6&style=flat" alt="nativejim" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jereme-sorteberg) 
 
-- 🌱 I’m currently learning **Python**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NativeJim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NativeJim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NativeJim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with **in learning the basics of Python**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- 📫 How to reach me **Jeremesorteberg059@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- ⚡ Fun fact **I can ride my pedal bike backwards**
+---
+[![](https://visitcount.itsvg.in/api?id=NativeJim&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jereme-sorteberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jereme-sorteberg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nativejim&show_icons=true&locale=en&layout=compact" alt="nativejim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nativejim&show_icons=true&locale=en" alt="nativejim" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
