@@ -2,6 +2,10 @@
 <br>    🌱 I’m currently learning Python<br><br>    🤝 I’m looking for help with in learning the basics of Python<br><br>    📫 How to reach me Jeremesorteberg059@gmail.com<br><br>    ⚡ Fun fact I can ride my pedal bike backwards<br>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+## 🆕
+
+In recent months, I've found myself becoming a go-to resource among my friends and strangers for troubleshooting their computer issues. I've successfully diagnosed and resolved various problems such as startup beeps, malfunctioning fans, improperly seated RAM, and sluggish internet connections. I've also taken on tasks such as re-imaging four laptops for several acquaintances. On my own time, I've been engaging myself in the complexities of computer networking by experimenting with network creation and configuration using the Cisco Packet Tracer Application. This hands-on approach reflects my commitment to expanding my knowledge and expertise in this field.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jereme-sorteberg) 
 
@@ -22,3 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=NativeJim&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
