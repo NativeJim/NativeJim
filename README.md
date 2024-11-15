@@ -11,9 +11,9 @@ I've gone through some life changes in the last year and have been struggling in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jereme-sorteberg) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Java&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Git&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=HTML&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NativeJim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
