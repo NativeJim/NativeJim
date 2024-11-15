@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    🌱 I’m currently learning Python<br><br>    🤝 I’m looking for help with in learning the basics of Python<br><br>    📫 How to reach me Jeremesorteberg059@gmail.com<br><br>    ⚡ Fun fact I can ride my pedal bike backwards<br>
+<br>    🌱 I’m currently learning Java<br><br>    🤝 I’m looking for help with in learning the basics of Java<br><br>    📫 How to reach me [Click to Email Me](mailto:Jeremesorteberg059@gmail.com)<br><br>    ⚡ Fun fact I can ride my pedal bike backwards<br>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ## 🆕
