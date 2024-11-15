@@ -28,11 +28,11 @@ I've gone through some life changes in the last year and have been struggling in
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)         <!-- Search Quotes-->
 
+ <!-- ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)        
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>         <!-- Same as Quotes -->
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>     THIS IS ONLY TEMPORARY AS SUCH I DONT HAVE MEMES OR QUOTES TO SHARE    Same as Quotes -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NativeJim&icon=5&color=4)](https://visitcount.itsvg.in)
